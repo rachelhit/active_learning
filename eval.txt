@@ -1,0 +1,52 @@
+Origin eval:
+0.7327	0.4442	0.5531
+1:
+Common active 1:
+0.7811	0.5654	0.656
+TFIDF active 1:
+0.7971	0.6018	0.6858
+2:
+Common active 2:
+0.7886	0.6194	0.6938
+TFIDF active 2:
+0.8071	0.6546	0.7229
+3:
+Common active 3:
+0.8037	0.6632	0.7267
+TFIDF active 3:
+0.8302	0.7137	0.7676
+4:
+Common active 4:
+0.813	0.7026	0.7538
+TFIDF active 4:
+0.8307	0.7366	0.7808
+5:
+Common active 5:
+0.8338	0.7421	0.7853
+TFIDF active 5:
+0.8387	0.7466	0.79
+6:
+Common active 6:
+0.8457	0.7624	0.8019
+TFIDF active 6:
+0.8418	0.7544	0.7957
+7:
+Common active 7:
+0.8498	0.7735	0.8099
+TFIDF active 7:
+0.8506	0.769	0.8077
+8:
+Common active 8:
+0.8606	0.7744	0.8152
+TFIDF active 8:
+0.8592	0.781	0.8182
+9:
+Common active 9:
+0.8579	0.7781	0.8161
+TFIDF active 9:
+0.8634	0.7904	0.8253
+10:
+Common active 10:
+0.8623	0.7854	0.8221
+TFIDF active 10:
+0.864	0.7943	0.8277
